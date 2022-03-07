@@ -6,6 +6,7 @@
   "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/skye/skye-full.webp",
   "killfeedPortrait": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/killfeedportrait.png",
   "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/skye/skye-bg.webp",
+  "pathName": "skye",
   "role": {
     "displayName": "Initiator",
     "description": "Initiators challenge angles by setting up their team to enter contested ground and push defenders away.",

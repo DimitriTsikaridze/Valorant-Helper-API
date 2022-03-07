@@ -6,6 +6,7 @@
   "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/chamber/chamber-full.webp",
   "killfeedPortrait": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/killfeedportrait.png",
   "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/chamber/chamber-bg.webp",
+  "pathName": "chamber",
   "role": {
     "displayName": "Sentinel",
     "description": "Sentinels are defensive experts who can lock down areas and watch flanks, both on attacker and defender rounds.",
