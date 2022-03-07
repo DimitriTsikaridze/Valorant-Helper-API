@@ -1,0 +1,361 @@
+[
+    {
+        "displayName": "Ascent",
+        "listViewIcon": "https://media.valorant-api.com/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319/listviewicon.png",
+        "site": [
+            {
+                "siteName": "A site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "B site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "Generally Good",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "displayName": "Split",
+        "listViewIcon": "https://media.valorant-api.com/maps/d960549e-485c-e861-8d71-aa9d1aed12a2/listviewicon.png",
+        "site": [
+            {
+                "siteName": "A site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "B site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "Generally Good",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "displayName": "Fracture",
+        "listViewIcon": "https://media.valorant-api.com/maps/b529448b-4d60-346e-e89e-00a4c527a405/listviewicon.png",
+        "site": [
+            {
+                "siteName": "A site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "B site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "Generally Good",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "displayName": "Bind",
+        "listViewIcon": "https://media.valorant-api.com/maps/2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba/listviewicon.png",
+        "site": [
+            {
+                "siteName": "A site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "B site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "Generally Good",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "displayName": "Breeze",
+        "listViewIcon": "https://media.valorant-api.com/maps/2fb9a4fd-47b8-4e7d-a969-74b4046ebd53/listviewicon.png",
+        "site": [
+            {
+                "siteName": "A site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "B site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "Generally Good",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "displayName": "Haven",
+        "listViewIcon": "https://media.valorant-api.com/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047/listviewicon.png",
+        "site": [
+            {
+                "siteName": "A site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "B site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "C site",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            },
+            {
+                "siteName": "Generally Good",
+                "lineUps": [
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    },
+                    {
+                        "lineUpName": "test1",
+                        "lineUpPath": "test1"
+                    }
+                ]
+            }
+        ]
+    }
+]

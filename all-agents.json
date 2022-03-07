@@ -575,25 +575,25 @@
         "displayName": "FAKEOUT",
         "description": "EQUIP an echo that transforms into a mirror image of Yoru when activated FIRE to instantly activate the mirror image and send it forward ALT FIRE to place an inactive echo USE to transform an inactive echo into a mirror image and send it forward.  Mirror images explode in a blinding flash when destroyed by enemies.",
         "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/grenade/displayicon.png"
-      },
-      {
+        },
+        {
         "slot": "Ability1",
         "displayName": "BLINDSIDE",
         "description": "EQUIP to rip an unstable dimensional fragment from reality. FIRE to throw the fragment, activating a flash that winds up once it collides with a hard surface in world.",
         "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ability1/displayicon.png"
-      },
-      {
+        },
+        {
         "slot": "Ability2",
         "displayName": "GATECRASH",
         "description": "EQUIP a rift tether FIRE to send the tether forward ALT FIRE to place a stationary tether ACTIVATE to teleport to the tether's location USE to trigger a fake teleport",
         "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ability2/displayicon.png"
-      },
-      {
+        },
+        {
         "slot": "Ultimate",
         "displayName": "DIMENSIONAL DRIFT",
         "description": "EQUIP a mask that can see between dimensions FIRE to drift into Yoru's dimension, unable to be affected or seen by enemies from the outside.",
         "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ultimate/displayicon.png"
-      }
+        }
     ]
   },
   {
