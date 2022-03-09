@@ -522,6 +522,7 @@
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/neon/neon-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/neon/neon-full.webp",
     "killfeedPortrait": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/killfeedportrait.png",
+    "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/neon/neon-bg.webp",
     "pathName": "neon",
     "role": {
       "displayName": "Duelist",
