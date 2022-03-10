@@ -1,0 +1,84 @@
+[
+    {
+        "name": "TenZ’s crosshair",
+        "coverImage": "https://www.dexerto.com/wp-content/uploads/2021/04/29/best-valorant-crosshair-tenz.jpg.webp",
+        "crosshairDetail": [
+            {
+                "value": "Color",
+                "description": "Cyan"
+            },
+            {
+                "value": "Outlines",
+                "description": "Off"
+            },
+            {
+                "value": "Outline Opacity",
+                "description": "0"
+            },
+            {
+                "value": "Outline Thickness",
+                "description": "0"
+            },
+            {
+                "value": "Center Dot",
+                "description": "On"
+            },
+            {
+                "value": "Center Dot Opacity",
+                "description": "1"
+            },
+            {
+                "value": "Center Dot Thickness",
+                "description": "1"
+            },
+            {
+                "value": "Fade Crosshair with Firing Error",
+                "description": "Off"
+            },
+            {
+                "value": "Show Inner Lines",
+                "description": "On"
+            },
+            {
+                "value": "Inner Line Opacity",
+                "description": "1"
+            },
+            {
+                "value": "Inner Line Length",
+                "description": "2"
+            },
+            {
+                "value": "Inner Line Thickness",
+                "description": "1"
+            },
+            {
+                "value": "Inner Line Offset",
+                "description": "2"
+            },
+            {
+                "value": "Outer Line Opacity",
+                "description": "0"
+            },
+            {
+                "value": "Outer Line Length",
+                "description": "0"
+            },
+            {
+                "value": "Outer Line Thicknessh",
+                "description": "0"
+            },
+            {
+                "value": "Outer Line Offset",
+                "description": "0"
+            },
+            {
+                "value": "Movement Error",
+                "description": "Off"
+            },
+            {
+                "value": "Firing Error",
+                "description": "Off"
+            }
+        ]
+    }
+]
