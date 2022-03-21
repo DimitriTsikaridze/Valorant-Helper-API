@@ -2,51 +2,51 @@
   {
     "displayName": "Ascent",
     "coordinates": "45°26'BF'N,12°20'Q'E",
-    "displayIcon": "https://media.valorant-api.com/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319/displayicon.png",
-    "listViewIcon": "https://media.valorant-api.com/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319/listviewicon.png",
-    "splash": "https://media.valorant-api.com/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319/splash.png"
+    "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/ascent/ascent-layout.webp",
+    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/ascent/ascent-list-view.webp",
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/ascent/ascent-splash.webp"
   },
   {
     "displayName": "Split",
     "coordinates": "35°41'CD'N,139°41'WX'E",
-    "displayIcon": "https://media.valorant-api.com/maps/d960549e-485c-e861-8d71-aa9d1aed12a2/displayicon.png",
-    "listViewIcon": "https://media.valorant-api.com/maps/d960549e-485c-e861-8d71-aa9d1aed12a2/listviewicon.png",
-    "splash": "https://media.valorant-api.com/maps/d960549e-485c-e861-8d71-aa9d1aed12a2/splash.png"
+    "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/split/split-layout.webp",
+    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/split/split-layout.webp",
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/split/split-layout.webp"
   },
   {
     "displayName": "Fracture",
     "coordinates": "35°48'BI\"N 106°08'YQ\"W",
-    "displayIcon": "https://media.valorant-api.com/maps/b529448b-4d60-346e-e89e-00a4c527a405/displayicon.png",
-    "listViewIcon": "https://media.valorant-api.com/maps/b529448b-4d60-346e-e89e-00a4c527a405/listviewicon.png",
-    "splash": "https://media.valorant-api.com/maps/b529448b-4d60-346e-e89e-00a4c527a405/splash.png"
+    "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/fracture/fracture-layout.webp",
+    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/fracture/fracture-layout.webp",
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/fracture/fracture-layout.webp"
   },
   {
     "displayName": "Bind",
     "coordinates": "34°2'A'N,6°51'Z'W",
-    "displayIcon": "https://media.valorant-api.com/maps/2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba/displayicon.png",
-    "listViewIcon": "https://media.valorant-api.com/maps/2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba/listviewicon.png",
-    "splash": "https://media.valorant-api.com/maps/2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba/splash.png"
+    "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/bind/bind-layout.webp",
+    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/bind/bind-layout.webp",
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/bind/bind-layout.webp"
   },
   {
     "displayName": "Breeze",
     "coordinates": "26°11'AG\"N 71°10'WY\"W",
-    "displayIcon": "https://media.valorant-api.com/maps/2fb9a4fd-47b8-4e7d-a969-74b4046ebd53/displayicon.png",
-    "listViewIcon": "https://media.valorant-api.com/maps/2fb9a4fd-47b8-4e7d-a969-74b4046ebd53/listviewicon.png",
-    "splash": "https://media.valorant-api.com/maps/2fb9a4fd-47b8-4e7d-a969-74b4046ebd53/splash.png"
+    "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/breeze/breeze-layout.webp",
+    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/breeze/breeze-layout.webp",
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/breeze/breeze-layout.webp"
   },
   {
     "displayName": "Icebox",
     "coordinates": "76°44' A\"N 149°30' Z\"E",
-    "displayIcon": "https://media.valorant-api.com/maps/e2ad5c54-4114-a870-9641-8ea21279579a/displayicon.png",
-    "listViewIcon": "https://media.valorant-api.com/maps/e2ad5c54-4114-a870-9641-8ea21279579a/listviewicon.png",
-    "splash": "https://media.valorant-api.com/maps/e2ad5c54-4114-a870-9641-8ea21279579a/splash.png"
+    "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/icebox/icebox-layout.webp",
+    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/icebox/icebox-layout.webp",
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/icebox/icebox-layout.webp"
   },
 
   {
     "displayName": "Haven",
     "coordinates": "27°28'A'N,89°38'WZ'E",
-    "displayIcon": "https://media.valorant-api.com/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047/displayicon.png",
-    "listViewIcon": "https://media.valorant-api.com/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047/listviewicon.png",
-    "splash": "https://media.valorant-api.com/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047/splash.png"
+    "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/haven/haven-layout.webp",
+    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/haven/haven-layout.webp",
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/haven/haven-layout.webp"
   }
 ]
