@@ -2,10 +2,10 @@
   "displayName": "Sage",
   "description": "The bastion of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off forceful assaults, she provides a calm center to a hellish battlefield.",
   "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
-  "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/sage/sage-bust.webp",
-  "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/sage/sage-full.webp",
+  "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sage/sage-bust.webp",
+  "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sage/sage-full.webp",
   "killfeedPortrait": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/killfeedportrait.png",
-  "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/sage/sage-bg.webp",
+  "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sage/sage-bg.webp",
   "pathName": "sage",
   "role": {
     "displayName": "Sentinel",

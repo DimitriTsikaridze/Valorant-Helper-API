@@ -2,10 +2,10 @@
   "displayName": "Reyna",
   "description": "Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her sharply dependant on performance. ",
   "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
-  "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/reyna/reyna-bust.webp",
-  "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/reyna/reyna-full.webp",
+  "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/reyna/reyna-bust.webp",
+  "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/reyna/reyna-full.webp",
   "killfeedPortrait": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/killfeedportrait.png",
-  "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/reyna/reyna-bg.webp",
+  "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/reyna/reyna-bg.webp",
   "pathName": "reyna",
   "role": {
     "displayName": "Duelist",

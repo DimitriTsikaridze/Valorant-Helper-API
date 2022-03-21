@@ -2,10 +2,10 @@
   "displayName": "Brimstone",
   "description": "Joining from the USA, Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and safely make him the unmatched boots-on-the-ground commander.  ",
   "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png",
-  "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/brimstone/brimstone-bust.webp",
-  "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/brimstone/brimstone-full.webp",
+  "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-bust.webp",
+  "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-full.webp",
   "killfeedPortrait": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/killfeedportrait.png",
-  "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/brimstone/brimstone-bg.webp",
+  "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-bg.webp",
   "pathName": "brimstone",
   "role": {
     "displayName": "Controller",
