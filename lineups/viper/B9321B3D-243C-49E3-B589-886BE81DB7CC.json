@@ -1,0 +1,22 @@
+{
+    "id": "B9321B3D-243C-49E3-B589-886BE81DB7CC",
+    "name": "B default",
+    "description": "Plant spike on default location at B site and then setup for line-up.",
+    "requirements": [
+        "2 Snake Bite"
+    ],
+    "steps": [
+        {
+            "stepNumber": 1,
+            "stepImage": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/lineups/viper/lineup-images/line-up-2-step-1.png"
+        },
+        {
+            "stepNumber": 2,
+            "stepImage": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/lineups/viper/lineup-images/line-up-2-step-2.png"
+        },
+        {
+            "stepNumber": 3,
+            "stepImage": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/lineups/viper/lineup-images/line-up-2-step-3.png"
+        }
+    ]
+}
