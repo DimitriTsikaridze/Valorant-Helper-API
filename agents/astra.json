@@ -1,7 +1,7 @@
 {
   "displayName": "Astra",
   "description": "Ghanaian Agent Astra harnesses the energies of the cosmos to reshape battlefields to her whim. With full command of her astral form and a talent for deep strategic foresight, she's always eons ahead of her enemy's next move.",
-  "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
+  "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/astra-display-icon.webp",
   "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/astra-bust.webp",
   "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/astra-full.webp",
   "killfeedPortrait": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/killfeedportrait.png",

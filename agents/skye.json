@@ -1,7 +1,7 @@
 {
   "displayName": "Skye",
   "description": "Hailing from Australia, Skye and her band of beasts trailblaze the way through hostile territory. With her creations hampering the enemy, and her power to heal others, the team is strongest and safest by Skye's side.",
-  "displayIcon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/displayicon.png",
+  "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/skye/skye-display-icon.webp",
   "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/agents/assets/skye/skye-bust.webp",
   "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/agents/assets/skye/skye-full.webp",
   "killfeedPortrait": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/killfeedportrait.png",
