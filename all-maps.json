@@ -4,42 +4,48 @@
     "coordinates": "45°26'BF'N,12°20'Q'E",
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/ascent/ascent-layout.webp",
     "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/ascent/ascent-list-view.webp",
-    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/ascent/ascent-splash.webp"
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/ascent/ascent-splash.webp",
+    "availableSites": ["A", "B"]
   },
   {
     "displayName": "Split",
     "coordinates": "35°41'CD'N,139°41'WX'E",
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/split/split-layout.webp",
     "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/split/split-list-view.webp",
-    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/split/split-splash.webp"
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/split/split-splash.webp",
+    "availableSites": ["A", "B"]
   },
   {
     "displayName": "Fracture",
     "coordinates": "35°48'BI\"N 106°08'YQ\"W",
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/fracture/fracture-layout.webp",
     "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/fracture/fracture-list-view.webp",
-    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/fracture/fracture-splash.webp"
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/fracture/fracture-splash.webp",
+    "availableSites": ["A", "B"]
   },
   {
     "displayName": "Bind",
     "coordinates": "34°2'A'N,6°51'Z'W",
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/bind/bind-layout.webp",
     "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/bind/bind-list-view.webp",
-    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/bind/bind-splash.webp"
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/bind/bind-splash.webp",
+    "availableSites": ["A", "B"]
   },
   {
     "displayName": "Breeze",
     "coordinates": "26°11'AG\"N 71°10'WY\"W",
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/breeze/breeze-layout.webp",
     "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/breeze/breeze-list-view.webp",
-    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/breeze/breeze-splash.webp"
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/breeze/breeze-splash.webp",
+    "availableSites": ["A", "B"]
   },
   {
     "displayName": "Icebox",
     "coordinates": "76°44' A\"N 149°30' Z\"E",
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/icebox/icebox-layout.webp",
     "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/icebox/icebox-list-view.webp",
-    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/icebox/icebox-splash.webp"
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/icebox/icebox-splash.webp",
+    "availableSites": ["A", "B"]
   },
 
   {
@@ -47,6 +53,7 @@
     "coordinates": "27°28'A'N,89°38'WZ'E",
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/haven/haven-layout.webp",
     "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/haven/haven-list-view.webp",
-    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/haven/haven-splash.webp"
+    "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/haven/haven-splash.webp",
+    "availableSites": ["A", "B", "C"]
   }
 ]
