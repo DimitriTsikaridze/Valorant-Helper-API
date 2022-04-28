@@ -50,7 +50,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/chamber/chamber-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/chamber/chamber-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/chamber/chamber-full.webp",
-    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/chamber/chamber-v2.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/chamber/chamber-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/chamber/chamber-bg.webp",
     "pathName": "chamber",
     "role": {
@@ -125,7 +125,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/killjoy/killjoy-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/killjoy/killjoy-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/killjoy/killjoy-full.webp",
-    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/killjoy/killjoy-v2.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/killjoy/killjoy-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/killjoy/killjoy-bg.webp",
     "pathName": "killjoy",
     "role": {
@@ -155,7 +155,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/phoenix/phoenix-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/phoenix/phoenix-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/phoenix/phoenix-full.webp",
-    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/phoenix/phoenix-v2.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/phoenix/phoenix-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/phoenix/phoenix-bg.webp",
     "pathName": "phoenix",
     "role": {
@@ -185,7 +185,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-full.webp",
-    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/agents/brimstone-full-v2.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-bg.webp",
     "pathName": "brimstone",
     "role": {
