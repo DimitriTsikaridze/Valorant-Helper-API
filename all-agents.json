@@ -2,9 +2,10 @@
   {
     "displayName": "Fade",
     "description": "Turkish bounty hunter Fade unleashes the power of raw nightmare to seize enemy secrets. Attuned with terror itself, she hunts down targets and reveals their deepest fears - before crushing them in the dark.",
-    "displayIcon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/displayicon.png",
-    "bustPortrait": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/bustportrait.png",
-    "fullPortrait": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+    "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/fade/fade-display-icon.webp",
+    "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/fade/fade-bust.webp",
+    "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/fade/fade-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/fade/fade-full-v2.webp",
     "background": null,
     "pathName": "fade",
     "role": {
@@ -19,6 +20,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/breach/breach-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/breach/breach-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/breach/breach-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/breach/breach-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/breach/breach-bg.webp",
     "pathName": "breach",
     "role": {
@@ -33,6 +35,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/raze/raze-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/raze/raze-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/raze/raze-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/raze/raze-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/raze/raze-bg.webp",
     "pathName": "raze",
     "role": {
@@ -47,6 +50,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/chamber/chamber-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/chamber/chamber-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/chamber/chamber-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/chamber/chamber-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/chamber/chamber-bg.webp",
     "pathName": "chamber",
     "role": {
@@ -61,6 +65,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/kayo/kayo-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/kayo/kayo-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/kayo/kayo-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/kayo/kayo-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/kayo/kayo-bg.webp",
     "pathName": "kayo",
     "role": {
@@ -75,6 +80,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/skye/skye-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/skye/skye-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/skye/skye-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/skye/skye-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/skye/skye-bg.webp",
     "pathName": "skye",
     "role": {
@@ -89,6 +95,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/cypher/cypher-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/cypher/cypher-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/cypher/cypher-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/cypher/cypher-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/cypher/cypher-bg.webp",
     "pathName": "cypher",
     "role": {
@@ -103,6 +110,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sova/sova-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sova/sova-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sova/sova-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sova/sova-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sova/sova-bg.webp",
     "pathName": "sova",
     "role": {
@@ -117,6 +125,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/killjoy/killjoy-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/killjoy/killjoy-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/killjoy/killjoy-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/killjoy/killjoy-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/killjoy/killjoy-bg.webp",
     "pathName": "killjoy",
     "role": {
@@ -131,6 +140,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/viper/viper-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/viper/viper-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/viper/viper-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/viper/viper-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/viper/viper-bg.webp",
     "pathName": "viper",
     "role": {
@@ -145,6 +155,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/phoenix/phoenix-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/phoenix/phoenix-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/phoenix/phoenix-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/phoenix/phoenix-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/phoenix/phoenix-bg.webp",
     "pathName": "phoenix",
     "role": {
@@ -159,6 +170,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/astra-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/astra-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/astra-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/astra-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/astra/astra-bg.webp",
     "pathName": "astra",
     "role": {
@@ -173,6 +185,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/agents/brimstone-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/brimstone/brimstone-bg.webp",
     "pathName": "brimstone",
     "role": {
@@ -187,6 +200,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/neon/neon-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/neon/neon-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/neon/neon-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/neon/neon-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/neon/neon-bg.webp",
     "pathName": "neon",
     "role": {
@@ -201,6 +215,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/yoru/yoru-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/yoru/yoru-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/yoru/yoru-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/yoru/yoru-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/yoru/yoru-bg.webp",
     "pathName": "yoru",
     "role": {
@@ -215,6 +230,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sage/sage-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sage/sage-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sage/sage-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sage/sage-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/sage/sage-bg.webp",
     "pathName": "sage",
     "role": {
@@ -229,6 +245,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/reyna/reyna-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/reyna/reyna-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/reyna/reyna-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/reyna/reyna-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/reyna/reyna-bg.webp",
     "pathName": "reyna",
     "role": {
@@ -243,6 +260,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/omen/omen-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/omen/omen-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/omen/omen-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/omen/omen-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/omen/omen-bg.webp",
     "pathName": "omen",
     "role": {
@@ -257,6 +275,7 @@
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/jett/jett-display-icon.webp",
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/jett/jett-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/jett/jett-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/jett/jett-full-v2.webp",
     "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/jett/jett-bg.webp",
     "pathName": "jett",
     "role": {
