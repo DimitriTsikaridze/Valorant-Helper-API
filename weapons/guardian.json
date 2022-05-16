@@ -1,0 +1,33 @@
+{
+  "displayName": "Guardian",
+  "displayIcon": "https://media.valorant-api.com/weapons/4ade7faa-4cf1-8376-95ef-39884480959b/displayicon.png",
+  "weaponStats": {
+    "fireRate": 5.25,
+    "magazineSize": 12,
+    "equipTimeSeconds": 1,
+    "reloadTimeSeconds": 2.5,
+    "firstBulletAccuracy": 0.1,
+    "shotgunPelletCount": 1,
+    "wallPenetration": "EWallPenetrationDisplayType::High",
+    "feature": null,
+    "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+    "altFireType": "EWeaponAltFireDisplayType::ADS",
+    "adsStats": {
+      "zoomMultiplier": 1.5,
+      "fireRate": 5.25,
+      "burstCount": 1,
+      "firstBulletAccuracy": -1
+    },
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 50,
+        "headDamage": 195,
+        "bodyDamage": 65,
+        "legDamage": 48.75
+      }
+    ]
+  }
+}

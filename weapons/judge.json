@@ -1,0 +1,42 @@
+{
+  "displayName": "Judge",
+  "displayIcon": "https://media.valorant-api.com/weapons/ec845bf4-4f79-ddda-a3da-0db3774b2794/displayicon.png",
+  "weaponStats": {
+    "fireRate": 3.5,
+    "magazineSize": 7,
+    "equipTimeSeconds": 1,
+    "reloadTimeSeconds": 2.2,
+    "firstBulletAccuracy": 2.25,
+    "shotgunPelletCount": 12,
+    "wallPenetration": "EWallPenetrationDisplayType::Low",
+    "feature": null,
+    "fireMode": null,
+    "altFireType": null,
+    "adsStats": null,
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 10,
+        "headDamage": 34,
+        "bodyDamage": 17,
+        "legDamage": 14.450001
+      },
+      {
+        "rangeStartMeters": 10,
+        "rangeEndMeters": 15,
+        "headDamage": 20,
+        "bodyDamage": 10,
+        "legDamage": 8.5
+      },
+      {
+        "rangeStartMeters": 15,
+        "rangeEndMeters": 50,
+        "headDamage": 14,
+        "bodyDamage": 7,
+        "legDamage": 5.9500003
+      }
+    ]
+  }
+}

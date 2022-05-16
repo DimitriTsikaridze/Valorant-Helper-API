@@ -1,0 +1,40 @@
+{
+  "displayName": "Spectre",
+  "displayIcon": "https://media.valorant-api.com/weapons/462080d1-4035-2937-7c09-27aa2a5c27a7/displayicon.png",
+  "weaponStats": {
+    "fireRate": 13.333,
+    "magazineSize": 30,
+    "equipTimeSeconds": 0.75,
+    "reloadTimeSeconds": 2.25,
+    "firstBulletAccuracy": 0.4,
+    "shotgunPelletCount": 1,
+    "wallPenetration": "EWallPenetrationDisplayType::Low",
+    "feature": "EWeaponStatsFeature::Silenced",
+    "fireMode": null,
+    "altFireType": "EWeaponAltFireDisplayType::ADS",
+    "adsStats": {
+      "zoomMultiplier": 1.15,
+      "fireRate": 11.9997,
+      "burstCount": 1,
+      "firstBulletAccuracy": 0.25
+    },
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 20,
+        "headDamage": 78,
+        "bodyDamage": 26,
+        "legDamage": 22.1
+      },
+      {
+        "rangeStartMeters": 20,
+        "rangeEndMeters": 50,
+        "headDamage": 66,
+        "bodyDamage": 22,
+        "legDamage": 18.7
+      }
+    ]
+  }
+}

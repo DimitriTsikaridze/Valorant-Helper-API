@@ -1,0 +1,35 @@
+{
+  "displayName": "Sheriff",
+  "displayIcon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/displayicon.png",
+  "weaponStats": {
+    "fireRate": 4,
+    "magazineSize": 6,
+    "equipTimeSeconds": 1,
+    "reloadTimeSeconds": 2.25,
+    "firstBulletAccuracy": 0.25,
+    "shotgunPelletCount": 1,
+    "wallPenetration": "EWallPenetrationDisplayType::High",
+    "feature": null,
+    "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+    "altFireType": null,
+    "adsStats": null,
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 30,
+        "headDamage": 159.5,
+        "bodyDamage": 55,
+        "legDamage": 46.75
+      },
+      {
+        "rangeStartMeters": 30,
+        "rangeEndMeters": 50,
+        "headDamage": 145,
+        "bodyDamage": 50,
+        "legDamage": 42.5
+      }
+    ]
+  }
+}

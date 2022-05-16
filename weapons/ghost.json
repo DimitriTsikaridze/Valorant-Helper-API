@@ -1,0 +1,35 @@
+{
+  "displayName": "Ghost",
+  "displayIcon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+  "weaponStats": {
+    "fireRate": 6.75,
+    "magazineSize": 15,
+    "equipTimeSeconds": 0.75,
+    "reloadTimeSeconds": 1.5,
+    "firstBulletAccuracy": 0.3,
+    "shotgunPelletCount": 1,
+    "wallPenetration": "EWallPenetrationDisplayType::Medium",
+    "feature": "EWeaponStatsFeature::Silenced",
+    "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+    "altFireType": null,
+    "adsStats": null,
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 30,
+        "headDamage": 105,
+        "bodyDamage": 30,
+        "legDamage": 25.5
+      },
+      {
+        "rangeStartMeters": 30,
+        "rangeEndMeters": 50,
+        "headDamage": 87.5,
+        "bodyDamage": 25,
+        "legDamage": 21.25
+      }
+    ]
+  }
+}

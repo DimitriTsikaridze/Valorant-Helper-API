@@ -1,0 +1,40 @@
+{
+  "displayName": "Odin",
+  "displayIcon": "https://media.valorant-api.com/weapons/63e6c2b6-4a8e-869c-3d4c-e38355226584/displayicon.png",
+  "weaponStats": {
+    "fireRate": 12,
+    "magazineSize": 100,
+    "equipTimeSeconds": 1.25,
+    "reloadTimeSeconds": 5,
+    "firstBulletAccuracy": 0.8,
+    "shotgunPelletCount": 1,
+    "wallPenetration": "EWallPenetrationDisplayType::High",
+    "feature": "EWeaponStatsFeature::ROFIncrease",
+    "fireMode": null,
+    "altFireType": "EWeaponAltFireDisplayType::ADS",
+    "adsStats": {
+      "zoomMultiplier": 1.15,
+      "fireRate": 15.6,
+      "burstCount": 1,
+      "firstBulletAccuracy": 0.79
+    },
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 30,
+        "headDamage": 95,
+        "bodyDamage": 38,
+        "legDamage": 32.3
+      },
+      {
+        "rangeStartMeters": 30,
+        "rangeEndMeters": 50,
+        "headDamage": 77.5,
+        "bodyDamage": 31,
+        "legDamage": 26.35
+      }
+    ]
+  }
+}

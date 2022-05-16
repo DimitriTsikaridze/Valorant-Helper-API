@@ -1,0 +1,42 @@
+{
+  "displayName": "Shorty",
+  "displayIcon": "https://media.valorant-api.com/weapons/42da8ccc-40d5-affc-beec-15aa47b42eda/displayicon.png",
+  "weaponStats": {
+    "fireRate": 3.33,
+    "magazineSize": 2,
+    "equipTimeSeconds": 0.75,
+    "reloadTimeSeconds": 1.75,
+    "firstBulletAccuracy": 4,
+    "shotgunPelletCount": 15,
+    "wallPenetration": "EWallPenetrationDisplayType::Low",
+    "feature": null,
+    "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+    "altFireType": null,
+    "adsStats": null,
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 7,
+        "headDamage": 24,
+        "bodyDamage": 12,
+        "legDamage": 10.200001
+      },
+      {
+        "rangeStartMeters": 7,
+        "rangeEndMeters": 15,
+        "headDamage": 16,
+        "bodyDamage": 8,
+        "legDamage": 6.8
+      },
+      {
+        "rangeStartMeters": 15,
+        "rangeEndMeters": 50,
+        "headDamage": 6,
+        "bodyDamage": 3,
+        "legDamage": 2.5500002
+      }
+    ]
+  }
+}

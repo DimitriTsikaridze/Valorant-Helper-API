@@ -1,0 +1,47 @@
+{
+  "displayName": "Phantom",
+  "displayIcon": "https://media.valorant-api.com/weapons/ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a/displayicon.png",
+  "weaponStats": {
+    "fireRate": 11,
+    "magazineSize": 30,
+    "equipTimeSeconds": 1,
+    "reloadTimeSeconds": 2.5,
+    "firstBulletAccuracy": 0.2,
+    "shotgunPelletCount": 1,
+    "wallPenetration": "EWallPenetrationDisplayType::Medium",
+    "feature": "EWeaponStatsFeature::Silenced",
+    "fireMode": null,
+    "altFireType": "EWeaponAltFireDisplayType::ADS",
+    "adsStats": {
+      "zoomMultiplier": 1.25,
+      "fireRate": 9.9,
+      "burstCount": 1,
+      "firstBulletAccuracy": 0.11000001
+    },
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 15,
+        "headDamage": 156,
+        "bodyDamage": 39,
+        "legDamage": 33.15
+      },
+      {
+        "rangeStartMeters": 15,
+        "rangeEndMeters": 30,
+        "headDamage": 140,
+        "bodyDamage": 35,
+        "legDamage": 29.75
+      },
+      {
+        "rangeStartMeters": 30,
+        "rangeEndMeters": 50,
+        "headDamage": 124,
+        "bodyDamage": 31,
+        "legDamage": 26.35
+      }
+    ]
+  }
+}

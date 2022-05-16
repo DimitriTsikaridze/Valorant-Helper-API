@@ -1,0 +1,40 @@
+{
+  "displayName": "Stinger",
+  "displayIcon": "https://media.valorant-api.com/weapons/f7e1b454-4ad4-1063-ec0a-159e56b58941/displayicon.png",
+  "weaponStats": {
+    "fireRate": 16,
+    "magazineSize": 20,
+    "equipTimeSeconds": 0.75,
+    "reloadTimeSeconds": 2.25,
+    "firstBulletAccuracy": 0.65,
+    "shotgunPelletCount": 1,
+    "wallPenetration": "EWallPenetrationDisplayType::Low",
+    "feature": null,
+    "fireMode": null,
+    "altFireType": "EWeaponAltFireDisplayType::ADS",
+    "adsStats": {
+      "zoomMultiplier": 1.15,
+      "fireRate": 8.470589,
+      "burstCount": 4,
+      "firstBulletAccuracy": 0.5
+    },
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 20,
+        "headDamage": 67.5,
+        "bodyDamage": 27,
+        "legDamage": 22.95
+      },
+      {
+        "rangeStartMeters": 20,
+        "rangeEndMeters": 50,
+        "headDamage": 62.5,
+        "bodyDamage": 25,
+        "legDamage": 21.25
+      }
+    ]
+  }
+}

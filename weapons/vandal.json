@@ -1,0 +1,33 @@
+{
+  "displayName": "Vandal",
+  "displayIcon": "https://media.valorant-api.com/weapons/9c82e19d-4575-0200-1a81-3eacf00cf872/displayicon.png",
+  "weaponStats": {
+    "fireRate": 9.75,
+    "magazineSize": 25,
+    "equipTimeSeconds": 1,
+    "reloadTimeSeconds": 2.5,
+    "firstBulletAccuracy": 0.25,
+    "shotgunPelletCount": 1,
+    "wallPenetration": "EWallPenetrationDisplayType::Medium",
+    "feature": null,
+    "fireMode": null,
+    "altFireType": "EWeaponAltFireDisplayType::ADS",
+    "adsStats": {
+      "zoomMultiplier": 1.25,
+      "fireRate": 8.775,
+      "burstCount": 1,
+      "firstBulletAccuracy": 0.1575
+    },
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 50,
+        "headDamage": 160,
+        "bodyDamage": 40,
+        "legDamage": 34
+      }
+    ]
+  }
+}

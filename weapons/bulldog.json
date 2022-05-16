@@ -1,0 +1,33 @@
+{
+  "displayName": "Bulldog",
+  "displayIcon": "https://media.valorant-api.com/weapons/ae3de142-4d85-2547-dd26-4e90bed35cf7/displayicon.png",
+  "weaponStats": {
+    "fireRate": 10,
+    "magazineSize": 24,
+    "equipTimeSeconds": 1,
+    "reloadTimeSeconds": 2.5,
+    "firstBulletAccuracy": 0.3,
+    "shotgunPelletCount": 1,
+    "wallPenetration": "EWallPenetrationDisplayType::Medium",
+    "feature": null,
+    "fireMode": null,
+    "altFireType": "EWeaponAltFireDisplayType::ADS",
+    "adsStats": {
+      "zoomMultiplier": 1.25,
+      "fireRate": 6.315715,
+      "burstCount": 3,
+      "firstBulletAccuracy": 0.3
+    },
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 50,
+        "headDamage": 115.5,
+        "bodyDamage": 35,
+        "legDamage": 29.75
+      }
+    ]
+  }
+}

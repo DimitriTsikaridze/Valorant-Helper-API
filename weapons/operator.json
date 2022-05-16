@@ -1,0 +1,33 @@
+{
+  "displayName": "Operator",
+  "displayIcon": "https://media.valorant-api.com/weapons/a03b24d3-4319-996d-0f8c-94bbfba1dfc7/displayicon.png",
+  "weaponStats": {
+    "fireRate": 0.6,
+    "magazineSize": 5,
+    "equipTimeSeconds": 1.5,
+    "reloadTimeSeconds": 3.7,
+    "firstBulletAccuracy": 5,
+    "shotgunPelletCount": 1,
+    "wallPenetration": "EWallPenetrationDisplayType::High",
+    "feature": "EWeaponStatsFeature::DualZoom",
+    "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+    "altFireType": "EWeaponAltFireDisplayType::ADS",
+    "adsStats": {
+      "zoomMultiplier": 2.5,
+      "fireRate": 0.75,
+      "burstCount": 1,
+      "firstBulletAccuracy": -1
+    },
+    "altShotgunStats": null,
+    "airBurstStats": null,
+    "damageRanges": [
+      {
+        "rangeStartMeters": 0,
+        "rangeEndMeters": 50,
+        "headDamage": 255,
+        "bodyDamage": 150,
+        "legDamage": 120
+      }
+    ]
+  }
+}
