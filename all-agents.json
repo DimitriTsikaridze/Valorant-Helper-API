@@ -6,7 +6,7 @@
     "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/fade/fade-bust.webp",
     "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/fade/fade-full.webp",
     "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/fade/fade-full-v2.webp",
-    "background": null,
+    "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/fade/fade-bg.webp",
     "pathName": "fade",
     "role": {
       "displayName": "Initiator",
