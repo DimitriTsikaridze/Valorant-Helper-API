@@ -1,5 +1,20 @@
 [
   {
+    "displayName": "Harbor",
+    "description": "Hailing from India’s coast, Harbor storms the field wielding ancient technology with dominion over water. He unleashes frothing rapids and crushing waves to shield his allies and to pummel those that oppose him.",
+    "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/harbor/harbor-display-icon.webp",
+    "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/harbor/harbor-bust.webp",
+    "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/harbor/harbor-full.webp",
+    "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/harbor/harbor-full-v2.webp",
+    "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/harbor/harbor-bg.webp",
+    "pathName": "harbor",
+    "role": {
+      "displayName": "Controller",
+      "description": "Controllers are experts in slicing up dangerous territory to set their team up for success.",
+      "displayIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+    }
+  },
+  {
     "displayName": "Fade",
     "description": "Turkish bounty hunter Fade unleashes the power of raw nightmare to seize enemy secrets. Attuned with terror itself, she hunts down targets and reveals their deepest fears - before crushing them in the dark.",
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/fade/fade-display-icon.webp",

@@ -1,0 +1,45 @@
+{
+  "displayName": "Harbor",
+  "description": "Hailing from India’s coast, Harbor storms the field wielding ancient technology with dominion over water. He unleashes frothing rapids and crushing waves to shield his allies and to pummel those that oppose him.",
+  "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/harbor/harbor-display-icon.webp",
+  "bustPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/harbor/harbor-bust.webp",
+  "fullPortrait": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/harbor/harbor-full.webp",
+  "fullPortraitV2": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/harbor/harbor-full-v2.webp",
+  "background": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/agents/harbor/harbor-bg.webp",
+  "pathName": "harbor",
+  "role": {
+    "displayName": "Controller",
+    "description": "Controllers are experts in slicing up dangerous territory to set their team up for success.",
+    "displayIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+  },
+  "abilities": [
+    {
+      "slot": "Ability1",
+      "displayName": "Cove",
+      "description": "EQUIP a sphere of shielding water. FIRE to throw. ALT FIRE to underhand throw. Upon impacting the ground, spawn a water shield that blocks bullets.",
+      "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ability1/displayicon.png",
+      "displayVideo": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1a7cd79cbb632c3c/6349d6906a938c238802a820/Harbor_Q_v001_web.mp4"
+    },
+    {
+      "slot": "Grenade",
+      "displayName": "Cascade",
+      "description": "EQUIP a wave of water. FIRE to send the wave rolling forward and through walls. RE-USE to stop the wave. Players hit are SLOWED.",
+      "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/grenade/displayicon.png",
+      "displayVideo": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8fb30bd82f7dcd97/6349d669b2dba3104a11dde4/Harbor_C_v001_web.mp4"
+    },
+    {
+      "slot": "Ability2",
+      "displayName": "High Tide",
+      "description": "EQUIP a wall of water. FIRE to send the water forward along the ground. HOLD FIRE to guide the water in the direction of your crosshair, passing through the world, spawning a wall along the water’s path. ALT FIRE while bending to stop the water early. Players hit are SLOWED.",
+      "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ability2/displayicon.png",
+      "displayVideo": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte6e80f8936913459/6349d682b0662c1e9a67222a/Harbor_E_v001_web.mp4"
+    },
+    {
+      "slot": "Ultimate",
+      "displayName": "Reckoning",
+      "description": "EQUIP the full power of your Artifact. FIRE to summon a geyser pool on the ground. Enemy players in the area are targeted by successive geyser strikes. Players caught within a strike are CONCUSSED.",
+      "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ultimate/displayicon.png",
+      "displayVideo": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0536369c7a3b7986/6349d677c96b72418f47a8c4/Harbor_X_v001_web.mp4"
+    }
+  ]
+}
