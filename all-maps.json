@@ -53,14 +53,14 @@
     "displayName": "Pearl",
     "coordinates": "38°42'ED\"N8 9°08'XS\"W8",
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/pearl/pearl-layout.webp",
-    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/pearl/pearl-list.webp",
+    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/pearl/pearl-list-view.webp",
     "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/pearl/pearl-splash.webp"
   },
   {
     "displayName": "Lotus",
     "coordinates": "14°07'AD.4\"N8 74°53'XY\"E8",
     "displayIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/lotus/lotus-layout.webp",
-    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/lotus/lotus-list.webp",
+    "listViewIcon": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/lotus/lotus-list-view.webp",
     "splash": "https://raw.githubusercontent.com/DimitriTsikaridze/Valorant-Helper-API/main/assets/maps/lotus/lotus-splash.webp"
   }
 ]
